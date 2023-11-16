@@ -1,13 +1,13 @@
 # credit-risk-classification
 Module 20 Challenge Assigment
 
-This reposiotry contains the main files for the credit risk classification challenge:
+This repository contains the main files for the credit risk classification challenge:
 
 Contains:
   - Resources:
       - lending_data.csv: csv which is used to train and test classifier
-  - credit_risk_classificatoin.ipynb: main script to train and test classifier before and after principal component analysis (PCA)
-  - report-template.md: main report of findings based on classifier (including comparison before and after pca)
+  - credit_risk_classificatoin.ipynb: main script to train and test classifier before and after training data oversampling
+  - report-template.md: main report of findings based on classifier (including comparison before and after oversampling)
 
 Packages and programs:
   - python 3.9.13
